@@ -1,6 +1,6 @@
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning: Full-stack development with MERN
+- 🌱 Full-stack development with MERN
 - 💬 Ask me about: React, JavaScript, Node.js, APIs, UI design
 - 📫 Reach me: shobikhan338@gmail.com
 - 🎯 Fun fact: I love converting real-life problems into interactive web solutions
